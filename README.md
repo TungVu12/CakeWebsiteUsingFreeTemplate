@@ -2,13 +2,13 @@
 
 This is a cake website project that I created. I used the Front-End section of https://freewebsitetemplates.com for reference and then modified it again to fit my project and I designed the Back-End for this website using JSP/Servlets. I hope everyone will enjoy looking at this website. Thanks for watching
 
-## WHAT
+## WHAT?
 This is a cake-selling website that I created during my recent studies. I spent a lot of time and effort to create it. 
 
-## WHY
+## WHY?
 This is a project that once completed I have to present to the teacher and let them reivew it. Luckily it passed and I feel very happy and satisfied. Hopefully when you see this project you will see my efforts and I hope that you also try your best to be able to create better projects than this.
 
-## HOW
+## HOW?
 
 In this project I used the following to create them: 
 + Java
