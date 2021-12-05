@@ -1,6 +1,6 @@
 # CakeWebsiteUsingFreeWebsiteTemplate
 
-This is a cake website project that I created. I used the Front-End part of https://freewebsitetemplates.com and I designed the Back-End part for this website using JSP/Servlets. I hope everyone will enjoy looking at this website. Thanks for watching
+This is a cake website project that I created. I used the Front-End section of https://freewebsitetemplates.com for reference and then modified it again to fit my project and I designed the Back-End for this website using JSP/Servlets. I hope everyone will enjoy looking at this website. Thanks for watching
 
 ## WHAT
 This is a cake-selling website that I created during my recent studies. I spent a lot of time and effort to create it. 
